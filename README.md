@@ -25,7 +25,9 @@ This project is ideal for small-scale indoor or home hydroponic systems, aiding 
 ---
 
 ## Project Demo
-["C:\Users\DELL\Desktop\Nutrient Management System\demo.mp4"](#)
+
+https://github.com/user-attachments/assets/16ed94bb-71a6-4895-9140-bfa0b4d7f15c
+
 
 ---
 
